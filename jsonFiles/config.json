@@ -1,11 +1,11 @@
 {
-  "name": "RaptorSA",
+  "name": "A.K GAMER",
   "version": "1.0.0",
   "description": "RaptorSA is a multi function bot, you can listen music, manage roles, get various informations and many other things :)",
   "main": "index.js",
-  "token": "You wanted",
-  "author": "Cramenorn",
-  "prefix": "$",
+  "token": "NjQ3Nzk0ODU5OTk4MDUyNDEy.Xdn6DQ.XniXhPWgAjIHSpyHKB9FS1afM4g",
+  "author": "A.K",
+  "prefix": "ak!",
   "dependencies": {
     "discord.js": "^11.3.2",
     "discord.js-music-v11": "^1.3.4",
